@@ -65,7 +65,8 @@ Evaluates cancellation rates, cancellation reasons, and their impact on revenue.
 
 ### 📊 Overview Analysis
 
-<img width="1163" height="691" alt="Screenshot 2026-06-09 132253" src="https://github.com/user-attachments/assets/4098cce3-ae7a-40cc-8a79-699fd3e992b5" />
+<img width="1163" height="691" alt="Screenshot 2026-06-09 132253" src="https://github.com/user-attachments/assets/3edd6578-03ee-409b-a52e-c82c406f380c" />
+
 
 
 ### 🚗 Vehicle Performance Analysis
